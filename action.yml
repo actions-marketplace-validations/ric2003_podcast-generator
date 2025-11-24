@@ -1,4 +1,4 @@
-name: "podcast generator"
+name: "podcast generator ric2003"
 author: "Ricardo Goncalves"
 description: "Generate podcast episodes from a YMAL file"
 runs:
